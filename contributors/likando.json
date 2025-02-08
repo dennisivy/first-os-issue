@@ -1,0 +1,18 @@
+{
+    "name":"Likando Kayombo",
+    "bio":"Web developer",
+    "socials":[
+        {
+            "platform":"twitter",
+            "username":"likandokayombo"
+        },
+        {
+            "platform":"linkedin",
+            "username":""
+        },
+        {
+            "platform":"github",
+            "username":"likandokayombo"
+        }
+    ]
+}
