@@ -8,7 +8,8 @@ import usman_Pervez from "./contributors/usman_pervez.json";
 import shamsul from "./contributors/shamsul.json";
 import annshiv from  "./contributors/annshiv.json";
 import Gehendra from "./contributors/Gehendra.json";
-import madhusha from contributors/madhusha.json
+import likando from "./contributors/likando.json";
+import madhusha from contributors/madhusha.json;
 const contributors = [
     dennis,
     kushboo,
@@ -21,6 +22,7 @@ const contributors = [
     annshiv,
     Gehendra,
     madhusha,
+    likando,
 ];
 
 export default contributors;
