@@ -1,0 +1,15 @@
+{
+    "name": "Yash Mathur",
+    "bio": "I'm currently a student studying at IIIT Dhatwad college",
+    "socials": [
+
+        {
+            "platform": "linkedin",
+            "username": "yash"
+        },
+        {
+            "platform": "github",
+            "username": "YashMathurIIIT"
+        }
+    ]
+}
